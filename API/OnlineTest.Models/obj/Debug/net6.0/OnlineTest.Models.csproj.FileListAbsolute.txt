@@ -1,0 +1,14 @@
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\bin\Debug\net6.0\OnlineTest.Models.deps.json
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\bin\Debug\net6.0\OnlineTest.Models.runtimeconfig.json
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\bin\Debug\net6.0\OnlineTest.Models.dll
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\bin\Debug\net6.0\OnlineTest.Models.pdb
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\OnlineTest.Models.csproj.AssemblyReference.cache
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\OnlineTest.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\OnlineTest.Models.AssemblyInfoInputs.cache
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\OnlineTest.Models.AssemblyInfo.cs
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\OnlineTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\OnlineTest.Models.dll
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\refint\OnlineTest.Models.dll
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\OnlineTest.Models.pdb
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\OnlineTest.Models.genruntimeconfig.cache
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Models\obj\Debug\net6.0\ref\OnlineTest.Models.dll

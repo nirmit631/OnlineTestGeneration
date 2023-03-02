@@ -1,0 +1,15 @@
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\bin\Debug\net6.0\OnlineTest.Services.deps.json
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\bin\Debug\net6.0\OnlineTest.Services.dll
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\bin\Debug\net6.0\OnlineTest.Services.pdb
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\bin\Debug\net6.0\OnlineTest.Models.dll
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\bin\Debug\net6.0\OnlineTest.Models.pdb
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\OnlineTest.Services.csproj.AssemblyReference.cache
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\OnlineTest.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\OnlineTest.Services.AssemblyInfoInputs.cache
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\OnlineTest.Services.AssemblyInfo.cs
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\OnlineTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\OnlineTest.Services.csproj.CopyComplete
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\OnlineTest.Services.dll
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\refint\OnlineTest.Services.dll
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\OnlineTest.Services.pdb
+C:\Users\Nirmit Valand\Desktop\Project\API\OnlineTest.Services\obj\Debug\net6.0\ref\OnlineTest.Services.dll

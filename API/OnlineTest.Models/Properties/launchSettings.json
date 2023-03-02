@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OnlineTest.Model": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}
