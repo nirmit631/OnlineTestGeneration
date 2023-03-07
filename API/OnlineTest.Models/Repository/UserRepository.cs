@@ -26,6 +26,7 @@ namespace OnlineTest.Model.Repository
         {
             return _context.Users.ToList();
         }
+        
         public bool UpdateUser( User user)
         {
             _context.Update(user);
@@ -41,5 +42,19 @@ namespace OnlineTest.Model.Repository
             return _context.SaveChanges() > 0;
         }
 
+        public User GetUserbyId(int id)
+        {
+            return _context.Users.FirstOrDefault(u => u.Id == id);
+        }
+
+        public User GetUserByEmail(string email)
+        {
+            return _context.Users.FirstOrDefault(u => u.Email == email);
+        }
+
+        public IEnumerable<User> GetUserPagination(int PageNo, int RowsPerPage)
+        {
+            return _context.Users.Skip((PageNo - 1)*RowsPerPage).Take(RowsPerPage).ToList();
+        }
     }
 }

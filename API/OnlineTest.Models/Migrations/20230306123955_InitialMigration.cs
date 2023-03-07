@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
@@ -41,6 +42,28 @@ namespace OnlineTest.Models.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "RToken",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Refresh_Token = table.Column<string>(type: "varchar(150)", nullable: false),
+                    Is_Stop = table.Column<int>(type: "int", nullable: false),
+                    Created_Date = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    User_Id = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_RToken", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_RToken_Users_User_Id",
+                        column: x => x.User_Id,
+                        principalTable: "Users",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "UserRoles",
                 columns: table => new
                 {
@@ -67,6 +90,11 @@ namespace OnlineTest.Models.Migrations
                 });
 
             migrationBuilder.CreateIndex(
+                name: "IX_RToken_User_Id",
+                table: "RToken",
+                column: "User_Id");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_UserRoles_RoleId",
                 table: "UserRoles",
                 column: "RoleId");
@@ -80,6 +108,9 @@ namespace OnlineTest.Models.Migrations
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "RToken");
+
             migrationBuilder.DropTable(
                 name: "UserRoles");
 

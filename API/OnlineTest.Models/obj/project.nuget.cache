@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f0G/kBUGqEqjise2v+wmocE+rZrWvt+6HDO9Hnlgch6+XHXNTlnCOXqHdYSq/GvDqrueJ/tkcz44UxYacVra2w==",
+  "dgSpecHash": "B3rnpSNw9++nSNVAMwPyT8X4m3MJGI04Ljn6OUCG7XXTO7HtJPbL4AuoV6h1Idypca1tl5jtC99LLaZ7LGfi7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nirmit Valand\\Desktop\\Project\\API\\OnlineTest.Models\\OnlineTest.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Nirmit Valand\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.14\\microsoft.aspnetcore.authentication.jwtbearer.6.0.14.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
@@ -42,6 +43,7 @@
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Nirmit Valand\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Nirmit Valand\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
